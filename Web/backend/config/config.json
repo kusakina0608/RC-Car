@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "dev5_1",
+    "password": "1234",
+    "database": "dev5",
+    "host": "54.180.32.208",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "dev5_1",
+    "password": "1234",
+    "database": "dev5",
+    "host": "54.180.32.208",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "dev5_1",
+    "password": "1234",
+    "database": "dev5",
+    "host": "54.180.32.208",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
